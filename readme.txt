@@ -1,6 +1,8 @@
 Implementação Algoritmica
-Nome: Fabio Ramos
-Matrícula: 202319060712
+Academicos:
+- Fabio Ramos 202319060712, 
+- Luigi Gonçalves de Almeida  202319060062
+
 
 Programa para geração de grafos e cálculo de propriedades como número de vértices, número de arestas, grau mínimo, grau máximo, grau médio e diâmetro.
 
